@@ -1,0 +1,15 @@
+
+.table {
+    border-collapse: collapse;
+}
+th {
+    width: 25%;
+}
+.table, th, td {
+    border: 1px solid black;
+}
+.box2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 500px;
+}
